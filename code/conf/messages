@@ -1,0 +1,2 @@
+# https://www.playframework.com/documentation/latest/ScalaI18N
+api.error.badrequest=Bad Request {0}

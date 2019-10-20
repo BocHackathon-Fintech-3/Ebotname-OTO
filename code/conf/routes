@@ -1,0 +1,7 @@
+
+GET         /login             http.controllers.BOCController.login
+GET         /callback          http.controllers.BOCController.callback
+GET         /success          http.controllers.BOCController.success
+
+POST        /dialogflow        http.controllers.DialogFlowController.handle
+
